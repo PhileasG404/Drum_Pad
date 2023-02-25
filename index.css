@@ -1,0 +1,11 @@
+.audioALL {
+  display: none;
+}
+div {
+display: flex;
+justify-content: center;
+}
+.espace {
+display: grid;
+grid-template-columns: 3% 3% 3% 3% 3% 3%;
+}
